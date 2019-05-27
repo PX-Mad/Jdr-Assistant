@@ -1,0 +1,11 @@
+<RCC>
+    <qresource>
+    <file>img/load.png</file>
+    <file>img/pj.png</file>
+    <file>img/pnj.png</file>
+    <file>img/save.png</file>
+    <file>img/trash.png</file>
+    <file>img/dice.png</file>
+    <file>img/add.png</file>
+</qresource>
+</RCC>
